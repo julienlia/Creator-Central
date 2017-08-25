@@ -1,5 +1,5 @@
 body {
-    background-color: #FFB746;
+    background-color: #2381B4;
 }
 p {
     font-family: Verdana, Sans-serif
@@ -25,7 +25,7 @@ p {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-    background-color: #70501E;
+    background-color: #055179;
     color: white;
 }
 
